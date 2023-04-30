@@ -29,3 +29,5 @@ xnoremap ma <Cmd>call <SID>vscodePrepareMultipleCursors(1, 1)<CR>
 xnoremap mi <Cmd>call <SID>vscodePrepareMultipleCursors(0, 1)<CR>
 xnoremap mA <Cmd>call <SID>vscodePrepareMultipleCursors(1, 0)<CR>
 xnoremap mI <Cmd>call <SID>vscodePrepareMultipleCursors(0, 0)<CR>
+xnoremap  A <Cmd>call <SID>vscodePrepareMultipleCursors(1, 0)<CR>
+xnoremap  I <Cmd>call <SID>vscodePrepareMultipleCursors(0, 0)<CR>
